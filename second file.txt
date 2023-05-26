@@ -1,0 +1,8 @@
+Get Up to 40% Better Price Performance
+T4g instances deliver the best price performance for burstable general purpose workloads in Amazon EC2. Learn more 
+
+Enable Best Price-Performance with AWS Graviton2
+AWS Graviton2 powered EC2 instances enable up to 40% better price performance for a broad spectrum of cloud workloads. Learn more 
+
+10 Things You Can Do Today to Reduce AWS Costs
+Explore how to effectively manage your AWS costs without compromising on performance or capacity. Learn more 
